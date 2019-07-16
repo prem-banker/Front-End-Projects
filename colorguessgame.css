@@ -1,0 +1,25 @@
+body{
+	background: #232323;
+}
+
+h1{
+	color: purple;
+	text-align: middle;
+}
+
+div{
+	width: 60%;
+	margin: auto;
+}
+.images{
+		width: 30%;
+		margin:  1.66%;
+		height: 200px;
+		float: left;
+
+
+}
+
+.game{
+	background: #232323
+}
