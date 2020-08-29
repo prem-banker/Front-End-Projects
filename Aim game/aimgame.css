@@ -1,0 +1,14 @@
+#my-canvas{
+	border:1px solid #000000; 
+	display: block;
+	margin: 10px auto;
+
+}
+
+#start-button{
+	display: block;
+	margin: 10px auto;
+	width: 50px;
+}
+
+
